@@ -1,0 +1,69 @@
+h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-family: 'Italianno', cursive;
+    font-size: 4.0em;
+}
+
+#photo {
+    height: 150px;
+}
+
+img{
+    border-radius: 3px;
+}
+
+#container{
+    width: 60%;
+    margin-bottom: 100px;
+}
+
+.maininfo{
+    padding-top: 12px;
+}
+
+.head{
+    font-size: 1.2em;
+    color: #0E61CE;
+}
+
+.foot{
+    color: #529BCF;
+}
+
+.row{
+    margin-bottom: 20px;
+}
+
+.rowborder{
+    border: 1px solid #DDDDDD;
+    margin-bottom: 0;
+}
+
+.rowtop{
+    border-bottom: none;
+}
+
+.rowbottom{
+    border-top: none;
+    margin-bottom: 5px;
+}
+
+
+
+hr{
+    border-top: 1px solid #529BCF;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2)
+}
+
+.btn{
+    border:  1px solid #DDDDDD;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.lastp{
+    margin-top: 15px;
+}
